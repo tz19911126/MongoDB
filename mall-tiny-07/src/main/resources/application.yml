@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      host: 10.20.0.171 # mongodb的连接地址
+      port: 27017 # mongodb的连接端口号
+      database: admin # mongodb的连接的数据库
+      username: 'root'
+      password: '123456'
+
+
